@@ -47,3 +47,8 @@ This digital platform streamlines credit union operations by:
 - Bootstrap
 - JavaScript
 - PDO for database operations
+
+---
+
+## 💭 Course Reflection
+Developing this cooperative management system using PHP/MySQL taught me how to model complex transactions and access control. Building secure logins, tracking ledger entries, and generating reports showed me the real-world value of database consistency.
